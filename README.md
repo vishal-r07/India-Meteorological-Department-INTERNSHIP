@@ -1,4 +1,4 @@
-#IMD internship engineering model of Dopler Weather Radar using Arudino/esp32
+# IMD internship engineering model of Dopler Weather Radar using Arudino/esp32
 
 This is the project Made by Vishal Meyyappan R, Kishore V S, Rayhan Hameed, Ashwin R, Yuvan Sankar on MAY 15, 2025 - JUNE 30,2025.
 
